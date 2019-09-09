@@ -1,4 +1,4 @@
-FROM ltlbsteed/galaxy-docker-lean:1804_v1
+FROM heberallred/galaxy-docker-lean:1804_v1
 
 # Install additional dependencies (adds to ltlbsteed/galaxy-docker-lean:v1)
 # These are for puppeteer. Note: currently puppeteer only works if launched with --no-sandbox argument ()
